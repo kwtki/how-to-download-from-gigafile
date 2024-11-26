@@ -10,7 +10,7 @@
 
 ![](./images/original-vs-translation.jpg)
 
-> **DLKE**: ダウンロードキー
+> **DLKE**: ダウンロードキーのこと
 
 ## 一括ダウンロード
 
