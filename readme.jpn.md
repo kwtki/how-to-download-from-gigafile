@@ -18,7 +18,7 @@
 
 すべての写真を一括でダウンロードしたい場合は、パスワードを使用してダウンロードしてください。
 
-![](./images/download-at-once.png)
+![](./images/download-at-once-jp.png)
 
 ダウンロードキー（パスワード）が提供されている場合、それを使用してダウンロードしてください。
 
@@ -30,7 +30,7 @@
 
 写真を一部だけダウンロードすることも可能です。
 
-![](./images/step-3-indivisual-download-eng.png)
+![](./images/step-3-indivisual-download-jpn.png)
 
 ダウンロードキー（パスワード）が提供されている場合、それを使用してダウンロードしてください。
 
