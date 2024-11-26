@@ -2,7 +2,7 @@
 
 # Download Pictures
 
-If you have a laptop, please use laptop to follow. It's much easier to download if you ue wider screen.
+If you have your laptop, please use the laptop to follow. It's much easier to download if you use wider screen.
 
 ## Japanese & English
 
