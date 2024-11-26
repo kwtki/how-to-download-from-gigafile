@@ -14,6 +14,7 @@ Here is a quick preview:
 
 ## Download At Once
 
+**Might not going to work on smartphone. Use laptop**!
 If you prefer to download all picture, just use your password to download all pictures.
 
 ![](./images/download-at-once.png)
@@ -24,6 +25,8 @@ use your Download Key (password) to download them if it is provided.
 > You can also view pictures online, but I straongly recommend you to do that on your laptop/ computer as ads overflows and buttons are somewhat hard to push.
 
 ## Download Individually
+
+**Works on smartphone**
 
 You can also download part of the pictures.
 
