@@ -1,3 +1,5 @@
+[日本語はここからどうぞ](./readme.jpn.md)
+
 # Download Pictures
 
 If you have laptop, please use laptop to follow. It's much easier to download if you ue wider screen.
