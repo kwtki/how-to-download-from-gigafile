@@ -41,8 +41,16 @@ use your Download Key (password)  to download them if it is provided.
 
 > Please contact me if you have any problem regarding to the downloading process.
 
+<br/>
+<br/>
+<br/>
 
 ---
+
+<br/>
+<br/>
+<br/>
+
 
 # 写真をダウンロードする
 
